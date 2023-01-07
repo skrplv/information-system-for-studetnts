@@ -1,0 +1,163 @@
+c:\users\антон\documents\visual studio 2013\Projects\Messager\Messager\bin\Debug\Messager.exe.config
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Messager\Messager\bin\Debug\Messager.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Messager\Messager\bin\Debug\Messager.pdb
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Messager\Messager\obj\Debug\Messager.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Messager\Messager\obj\Debug\Messager.LoginForm.resources
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Messager\Messager\obj\Debug\Messager.MainMenuForm.resources
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Messager\Messager\obj\Debug\Messager.Properties.Resources.resources
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Messager\Messager\obj\Debug\Messager.csproj.GenerateResource.Cache
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Messager\Messager\obj\Debug\Messager.exe
+C:\Users\Антон\Documents\Visual Studio 2013\Projects\Messager\Messager\obj\Debug\Messager.pdb
+F:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.csprojAssemblyReference.cache
+F:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.LoginForm.resources
+F:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.Properties.Resources.resources
+F:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.StudMainForm.resources
+F:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.csproj.GenerateResource.cache
+F:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.csproj.CoreCompileInputs.cache
+F:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.exe
+F:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.pdb
+F:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\bin\Debug\Messager.exe.config
+F:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\bin\Debug\Messager.exe
+F:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\bin\Debug\Messager.pdb
+G:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\bin\Debug\Messager.exe.config
+G:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.exe
+G:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.pdb
+G:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\bin\Debug\Messager.exe
+G:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\bin\Debug\Messager.pdb
+G:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.csprojResolveAssemblyReference.cache
+G:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.LoginForm.resources
+G:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.Properties.Resources.resources
+G:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.StudMainForm.resources
+G:\натя\4\Проектный практикум (полетайкин)\Messager\Messager\obj\Debug\Messager.csproj.GenerateResource.Cache
+F:\ната\Messager\Messager\bin\Debug\Messager.exe.config
+F:\ната\Messager\Messager\obj\Debug\Messager.exe
+F:\ната\Messager\Messager\obj\Debug\Messager.pdb
+F:\ната\Messager\Messager\bin\Debug\Messager.exe
+F:\ната\Messager\Messager\bin\Debug\Messager.pdb
+F:\ната\Messager\Messager\obj\Debug\Messager.csprojResolveAssemblyReference.cache
+F:\ната\Messager\Messager\obj\Debug\Messager.LoginForm.resources
+F:\ната\Messager\Messager\obj\Debug\Messager.Properties.Resources.resources
+F:\ната\Messager\Messager\obj\Debug\Messager.StudMainForm.resources
+F:\ната\Messager\Messager\obj\Debug\Messager.csproj.GenerateResource.Cache
+F:\ната\Messager\Messager\obj\Debug\Messager.TeachMainForm.resources
+F:\ната\Messager\Messager\obj\Debug\Messager.BoardForm.resources
+F:\Диплом\ПП\проект по ПП\Messager\bin\Debug\Messager.exe.config
+F:\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.exe
+F:\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.pdb
+F:\Диплом\ПП\проект по ПП\Messager\bin\Debug\Messager.exe
+F:\Диплом\ПП\проект по ПП\Messager\bin\Debug\Messager.pdb
+F:\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.csprojResolveAssemblyReference.cache
+F:\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.BoardForm.resources
+F:\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.LoginForm.resources
+F:\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.Properties.Resources.resources
+F:\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.StudMainForm.resources
+F:\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.TeachMainForm.resources
+F:\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.csproj.GenerateResource.Cache
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\Messager.exe.config
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\Messager.exe
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\Messager.pdb
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.csprojAssemblyReference.cache
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.LoginForm.resources
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.Properties.Resources.resources
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.StudMainForm.resources
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.TeachMainForm.resources
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.csproj.GenerateResource.cache
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.csproj.CoreCompileInputs.cache
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.exe
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.pdb
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\MaterialSkin.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.csproj.CopyComplete
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\Zeroit.Framework.LollipopControls.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.InfoPageForm.resources
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\AdvancedDataGridView.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\AutomaterRu.DataGridViewTweaks.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\byMarc.Net2.Library.Nullable.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\GemBox.Spreadsheet.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\log4net.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\Paway.Forms.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\TenTec.Windows.iGridLib.iGrid.v4.6.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\AdvancedDataGridView.xml
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\byMarc.Net2.Library.Nullable.xml
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.xml
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\GemBox.Spreadsheet.xml
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\log4net.xml
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\Paway.Forms.pdb
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\Paway.Forms.xml
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\fr\AdvancedDataGridView.resources.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\bin\Debug\ru\AdvancedDataGridView.resources.dll
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.BoardForm.resources
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.iGrid Sample VB.resources
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.MessegerForm.resources
+F:\натя\Диплом\ПП\проект по ПП\Messager\obj\Debug\Messager.CreateNewsForm.resources
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\Messager.exe.config
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\Messager.exe
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\Messager.pdb
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\AdvancedDataGridView.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\AutomaterRu.DataGridViewTweaks.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\byMarc.Net2.Library.Nullable.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\log4net.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\MaterialSkin.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\Paway.Forms.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\TenTec.Windows.iGridLib.iGrid.v4.6.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\Zeroit.Framework.LollipopControls.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\AdvancedDataGridView.xml
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\byMarc.Net2.Library.Nullable.xml
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.xml
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\log4net.xml
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\Paway.Forms.pdb
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\Paway.Forms.xml
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\obj\Debug\Messager.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\obj\Debug\Messager.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\obj\Debug\Messager.LoginForm.resources
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\obj\Debug\Messager.Properties.Resources.resources
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\obj\Debug\Messager.StudMainForm.resources
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\obj\Debug\Messager.csproj.GenerateResource.cache
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\obj\Debug\Messager.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\obj\Debug\Messager.csproj.CopyComplete
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\obj\Debug\Messager.exe
+C:\Users\user\Desktop\диплом\проект\ПП\проект по ПП\Messager\obj\Debug\Messager.pdb
+C:\Users\user\Desktop\is-for-students\Messager\obj\Debug\Messager.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\is-for-students\Messager\obj\Debug\Messager.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Desktop\is-for-students\Messager\obj\Debug\Messager.LoginForm.resources
+C:\Users\user\Desktop\is-for-students\Messager\obj\Debug\Messager.StudMainForm.resources
+C:\Users\user\Desktop\is-for-students\Messager\obj\Debug\Messager.csproj.GenerateResource.cache
+C:\Users\user\Desktop\is-for-students\Messager\obj\Debug\Messager.exe
+C:\Users\user\Desktop\is-for-students\Messager\obj\Debug\Messager.pdb
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\Messager.exe.config
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\Messager.exe
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\Messager.pdb
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\AdvancedDataGridView.dll
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\AutomaterRu.DataGridViewTweaks.dll
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\byMarc.Net2.Library.Nullable.dll
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.dll
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\GemBox.Spreadsheet.dll
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.dll
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\log4net.dll
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\MaterialSkin.dll
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\Paway.Forms.dll
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\TenTec.Windows.iGridLib.iGrid.v4.6.dll
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\Zeroit.Framework.LollipopControls.dll
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\AdvancedDataGridView.xml
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\byMarc.Net2.Library.Nullable.xml
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.xml
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\GemBox.Spreadsheet.xml
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\GemBox.Spreadsheet.WinFormsUtilities.xml
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\log4net.xml
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\Paway.Forms.pdb
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\Paway.Forms.xml
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\fr\AdvancedDataGridView.resources.dll
+C:\Users\user\Desktop\is-for-students\Messager\bin\Debug\ru\AdvancedDataGridView.resources.dll
+C:\Users\user\Desktop\is-for-students\Messager\obj\Debug\Messager.Properties.Resources.resources
+C:\Users\user\Desktop\is-for-students\Messager\obj\Debug\Messager.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\is-for-students\Messager\obj\Debug\Messager.csproj.CopyComplete
+C:\Users\user\Desktop\is-for-students\Messager\obj\Debug\Messager.EditStudentDataForm.resources

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+byMarc.Net2.WinLibrary.SqlDataGridViewAssistant
+</name>
+</assembly>
+<members>
+<member name="T:byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.SqlDataGridViewAssistant">
+ <summary>
+ Hooks into a DataGridView and implements the logic needed to allow changes to a DataGridView to be immediately preserved into a database.
+ </summary>
+ <remarks>
+ This control adds handlers (hooks) to the events of a DataGridView control and exposes events for the calling application to implement.  The events are designed so that the each event is expecting an INSERT, UPDATE or DELETE statement.
+ The events are expected to return a result of the database operation.  If an operation fails, the DataGridView action is cancelled.  This assistant does not handle inserts or deletes from the calling application.  It is the
+ resposibility of the calling application to perform the appropriate INSERT, UPDATE or DELETE, if the 
+ </remarks>
+</member>
+<member name="M:byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.SqlDataGridViewAssistant.DataGridView_EditingControlShowing(System.Object,System.Windows.Forms.DataGridViewEditingControlShowingEventArgs)">
+ <summary>
+ Handles the EditControlShowingEvent from the associated DataGridView.  This event tracks the selection of a ComboBox item so that the selection can be updated immediately (before the LostFocus event.)
+ </summary>
+ <param name="sender"></param>
+ <param name="e"></param>
+ <remarks></remarks>
+</member>
+<member name="E:byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.SqlDataGridViewAssistant.InsertRow">
+ <summary>
+ Fired when the user leaves a new uncommitted row.  The calling application must INSERT a new row into the database and return the result of the operation.
+ </summary>
+ <param name="rowIndex">The index of the row in the DataGridView that needs to be INSERTed into the database.</param>
+ <param name="result">The result of the database operation.  Return Nothing if the operation succeeds, otherwise return an applicable error message.  To cancel the insert row insert without an error message, return an empty string.</param>
+ <remarks></remarks>
+</member>
+<member name="E:byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.SqlDataGridViewAssistant.UpdateRow">
+ <summary>
+ Fired when the user changes a cell value.  The calling application must UPDATE the database and return the result of the operation.
+ </summary>
+ <param name="rowIndex"></param>
+ <param name="columnIndex"></param>
+ <param name="oldValue"></param>
+ <param name="newValue"></param>
+ <param name="result"></param>
+ <remarks></remarks>
+</member>
+<member name="E:byMarc.Net2.WinLibrary.SqlDataGridViewAssistant.SqlDataGridViewAssistant.DeleteRow">
+ <summary>
+ Fired when the user deletes a row.  The calling application must DELETE the row in the database and return the result of the operation.
+ </summary>
+ <param name="rowIndex"></param>
+ <param name="result"></param>
+ <remarks></remarks>
+</member>
+</members>
+</doc>
